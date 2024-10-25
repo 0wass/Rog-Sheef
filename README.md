@@ -1,4 +1,4 @@
-I am Walid Alghamdi, a passionate Software Engineering student constantly striving for growth and innovation in the tech world. 
+I am Waleed Alghamdi, a passionate Software Engineering student constantly striving for growth and innovation in the tech world. 
 The limitless possibilities of the digital age inspire me daily to explore fields like artificial intelligence, data science, and financial technology (FinTech).
 Though I am still at the beginning of my journey, I firmly believe in building a solid foundation. 
 My focus is on developing software solutions that meet evolving business needs. 
