@@ -21,9 +21,9 @@ I started out exploring software engineering broadly, but the more I learned abo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/>
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="60" height="60"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions.png" alt="GitHub Actions" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github actions" width="60" height="60"/>
-
+<span style="display:inline-block; background:#fff; border-radius:50%; padding:5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="60" height="60"/>
+</span>
 </p>
 
 ---
