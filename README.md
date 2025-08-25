@@ -28,7 +28,6 @@ I started out exploring software engineering broadly, but the more I learned abo
 ### 🌐 Web Servers & Backend  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/>
-  <img src="./assets/icons/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
 </p>
