@@ -11,4 +11,6 @@ I started out exploring software engineering broadly, but the more I learned abo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="50" height="50"/>
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="digitalocean" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
 </p>
