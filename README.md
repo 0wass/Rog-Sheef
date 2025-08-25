@@ -7,10 +7,11 @@ I started out exploring software engineering broadly, but the more I learned abo
 
 ### 🚀 Cloud & Infrastructure  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="digitalocean" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
+
 </p>
 
 ---
