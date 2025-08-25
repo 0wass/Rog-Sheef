@@ -22,7 +22,7 @@ I started out exploring software engineering broadly, but the more I learned abo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/>
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions-Logo.png" alt="github actions" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github actions" width="60" height="60"/>
 
 </p>
 
